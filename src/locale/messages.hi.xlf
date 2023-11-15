@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="1737753151350322492" datatype="html">
+        <source><x id="PH" equiv-text="this.title"/></source>
+        <target>बहुभाषी</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8953033926734869941" datatype="html">
+        <source>Name</source>
+        <target>नाम</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form-component/form-component.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2944449439955980766" datatype="html">
+        <source>Email </source>
+        <target>ईमेल</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form-component/form-component.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4343175076860151409" datatype="html">
+        <source>Company </source>
+        <target>कंपनी</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form-component/form-component.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1631299667351298479" datatype="html">
+        <source>Phone number </source>
+        <target>फ़ोन नंबर</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form-component/form-component.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7831361228603295274" datatype="html">
+        <source>Complaint </source>
+        <target>शिकायत</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form-component/form-component.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="935187492052582731" datatype="html">
+        <source>Submit</source>
+        <target>जमा करना</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form-component/form-component.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

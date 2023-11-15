@@ -1,0 +1,32 @@
+<div class="container">
+    <h1>User Registration</h1>
+    <form #login="ngForm" (ngSubmit)="submit(login)" > 
+        
+        <div class="form-group"> 
+            <label for="name" i18n>Name</label>
+            <input required minlength="2"  type="text" class="form-control" name="name" id="name" placeholder="Enter name" ngModel>
+        </div>
+        <pre></pre>
+        <div class="form-group">
+            <label for="email" i18n>Email </label>
+            <input type="mail" class="form-control" name="email" id="email" placeholder="Enter email" ngModel>
+        </div>
+        <pre></pre>
+        <div class="form-group">
+            <label for="Company" i18n>Company </label>
+            <input type="text" class="form-control" name="company" id="company" placeholder="Enter Company" ngModel>
+        </div>
+        <pre></pre>
+        <div class="form-group">
+            <label for="phn" i18n>Phone number </label>
+            <input type="number" class="form-control" name="number" id="phn" placeholder="Enter Phone number" ngModel>
+        </div>
+        <pre></pre>
+        <div class="form-group" >
+            <label for="Compliant" i18n>Compliant </label>
+            <input type="text" class="form-control" name="compliant" id="compliant" placeholder="Enter Your Compliant" ngModel>
+        </div>
+        <pre></pre>
+        <button type="submit" class="btn btn-primary" i18n>Submit</button>
+    </form>
+</div>
